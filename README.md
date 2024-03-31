@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdel</h1>
 <h3 align="center">A Computer Science student and IT enthusiast</h3>
-# 💫 About Me:
-I'm currently working on a a laptop-based drone control system.<br>I'm looking to collaborate on IoT projects and robotics<br>I'm looking for help with cybersecurity<br>I'm currently learning cybersecurity and IoT devices<br>Fun fact I love photography and video edits
+🔭I'm currently working on a a laptop-based drone control system.<br>
+👯 I'm looking to collaborate on IoT projects and robotics<br>
+🤝 I'm looking for help with cybersecurity<br>
+🌱 I'm currently learning cybersecurity and IoT devices<br>
+📷 Fun fact I love photography and video edits
 
 
 ## 🌐 Socials:
